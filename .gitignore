@@ -1,0 +1,28 @@
+# Blender
+*.blend1
+*.blend2
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test outputs
+test_output/
+*.json
+jda-assets/
